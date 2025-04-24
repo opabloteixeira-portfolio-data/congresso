@@ -2,7 +2,6 @@
 
 ### Site institucional criado para informar sobre o congresso de oncologia da UFPEL
 
-</br>
 ## 🗒️ Features do projeto 🗒️
 
 - Sobre o congresso
